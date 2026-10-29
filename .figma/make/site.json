@@ -1,0 +1,12 @@
+{
+  "title": "EDULINKIA",
+  "description": "EDULINKIA est une plateforme EdTech qui centralise le suivi des élèves pour les établissements scolaires, renforçant la communication entre les enseignants et les familles afin de favoriser la réussite des élèves.",
+  "language": "FR",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
